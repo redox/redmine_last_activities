@@ -1,3 +1,5 @@
-= last_activities
+= Display a 'latest activities' box on the home page
 
-Description goes here
+Display a home-page box of the last 10 activities of each project.
+
+/!\ Beware, you'll need the 'socialify' branch of my redmine fork (https://github.com/redox/redmine/tree/socialify) /!\
